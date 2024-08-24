@@ -27,3 +27,9 @@ This repository contains simple Python projects created while learning the langu
 - Analyzes a list of students and their grades.
 - Extracts unique grades, identifies top performers, and lists students who have failed.
 - Demonstrates the use of sets, list comprehensions, and sorting in Python.
+
+### OOP Classroom Management (`oop_classroom_management.py`)
+
+- A class-based application for managing students and their grades in a classroom.
+- Features include adding students, recording grades, identifying top performers, and listing students who have failed.
+- Demonstrates the use of object-oriented programming (OOP) principles in Python.
