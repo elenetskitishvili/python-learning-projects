@@ -33,3 +33,9 @@ This repository contains simple Python projects created while learning the langu
 - A class-based application for managing students and their grades in a classroom.
 - Features include adding students, recording grades, identifying top performers, and listing students who have failed.
 - Demonstrates the use of object-oriented programming (OOP) principles in Python.
+
+### Shape Hierarchy (`shape_hierarchy.py`)
+
+- Implements a basic shape hierarchy with inheritance and polymorphism.
+- Includes a `Shape` base class and two subclasses: `Rectangle` and `Circle`.
+- Demonstrates method overriding and polymorphism in Python.
